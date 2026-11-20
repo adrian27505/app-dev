@@ -44,3 +44,5 @@
 ```text
 Favorite Quote:
 "Who decided that?" — Escanor, Lion's Sin of Pride
+
+Learn more about the series on the [Seven Deadly Sins Wiki](https://nanatsu-no-taizai.fandom.com/wiki/Nanatsu_no_Taizai_Wiki).
